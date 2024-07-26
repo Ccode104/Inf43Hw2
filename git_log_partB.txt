@@ -1,0 +1,80 @@
+commit 769d5786011207dac402d9dc5cbcbb961587604b
+Author: Abhishek <cabhishek1304@gmail.com>
+Date:   Mon Mar 4 12:38:23 2024 +0530
+
+    Re-adding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..0e9dcc6
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2026 Software Engineer
+\ No newline at end of file
+
+commit 7c019ed4c55d37c4dc318f8edf1a89c8369b0c56
+Author: Abhishek <cabhishek1304@gmail.com>
+Date:   Mon Mar 4 12:20:16 2024 +0530
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index b615421..68a72ef 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,2 @@
+ Abhishek Prashant Chandurkar Computer Science
++Blue
+\ No newline at end of file
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index 0e9dcc6..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2026 Software Engineer
+\ No newline at end of file
+
+commit eafb9017e5e6f3f41b7a8d89a3f1f577e080f756
+Author: Abhishek <cabhishek1304@gmail.com>
+Date:   Mon Mar 4 12:18:12 2024 +0530
+
+    file2 commited with year of graduation and first job title
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..0e9dcc6
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2026 Software Engineer
+\ No newline at end of file
+
+commit c33da228ef609ae537c789588cb6b414327d04f5
+Author: Abhishek <cabhishek1304@gmail.com>
+Date:   Mon Mar 4 12:13:29 2024 +0530
+
+    Added favorite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index e22b1df..b615421 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Abhishek Prashant Chandurkar 29172
++Abhishek Prashant Chandurkar Computer Science
+
+commit 3acbd8d67895509e66149be2f0e36fd5bb3f3eff
+Author: Abhishek <cabhishek1304@gmail.com>
+Date:   Mon Mar 4 12:11:49 2024 +0530
+
+    Committing a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..e22b1df
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++Abhishek Prashant Chandurkar 29172
